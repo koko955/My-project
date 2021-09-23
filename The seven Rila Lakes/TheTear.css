@@ -1,0 +1,27 @@
+.container {
+    margin:10px auto;
+    width: 90%;
+    padding: 70px;
+}
+img{
+    float:right;
+    width: 450px;
+    height: 300px;
+    padding: 0px 20px 0px 20px ;
+
+}
+.text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h1 {
+    text-align:left;
+    margin-top: 40px;
+    padding-left: 45px;
+
+}
+body{
+    background-color: rgb(84, 133, 133);
+    
+}
